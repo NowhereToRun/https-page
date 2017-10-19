@@ -1,0 +1,8 @@
+{
+  "@mfelibs/generator-mcli": {
+    "promptValues": {
+      "authorName": "",
+      "authorEmail": ""
+    }
+  }
+}
